@@ -1,0 +1,12 @@
+br\edu\ifsul\cc\lpoo_studiodanca\dao\InterfacePersistencia.class
+br\edu\ifsul\cc\lpoo_studiodanca\dao\model\Contrato.class
+br\edu\ifsul\cc\lpoo_studiodanca\dao\PersistenciaJPA.class
+br\edu\ifsul\cc\lpoo_studiodanca\dao\model\Pacote.class
+br\edu\ifsul\cc\lpoo_studiodanca\dao\model\FormaPgto.class
+br\edu\ifsul\cc\lpoo_studiodanca\LPOO_StudioDanca.class
+br\edu\ifsul\cc\lpoo_studiodanca\dao\model\Modalidade.class
+br\edu\ifsul\cc\lpoo_studiodanca\dao\model\Pacote_.class
+br\edu\ifsul\cc\lpoo_studiodanca\dao\model\Pagamento_.class
+br\edu\ifsul\cc\lpoo_studiodanca\dao\model\Modalidade_.class
+br\edu\ifsul\cc\lpoo_studiodanca\dao\model\Pagamento.class
+br\edu\ifsul\cc\lpoo_studiodanca\dao\model\Contrato_.class
